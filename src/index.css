@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  background-color:black;
+  color:white ;
+  overflow-x:hidden;
+}
+
+.tilt-content {
+  background-color: #f0f0f0;
+  padding: 20px;
+  width:100px;
+  margin-left:350px;
+  border-radius: 10px;
+  text-align: center;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+  color:black;
+}
+
+
